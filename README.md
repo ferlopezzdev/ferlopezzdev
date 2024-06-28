@@ -31,3 +31,4 @@ Soy un desarrollador web Front / Back Jr con pasión por la creación de aplicac
 ## Contacto
 - **Correo:** [ferlopeztrdev@gmail.com](mailto:ferlopeztrdev@gmail.com)
 - **LinkedIn:** [Fernando López](https://www.linkedin.com/in/fernando-lopez-b80182290/)
+- **Teléfono:** +595 991 703989
