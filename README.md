@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Fernando López 👋
 
-<!--
-**ferlopezzdev/ferlopezzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un desarrollador web Front / Back Jr con pasión por la creación de aplicaciones web dinámicas y funcionales. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en el sector de forma continua.
 
-Here are some ideas to get you started:
+## Tecnologías
+- **Frontend:** HTML, CSS, JavaScript, Typescript, React, Tailwindcss
+- **Backend:** Node.js, Express, MySQL, Python, PHP
+- **Herramientas:** Git, GitHub, VSCode, GitLab, JIRA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- **Correo:** [ferlopeztrdev@gmail.com](mailto:ferlopeztrdev@gmail.com)
+- **LinkedIn:** [Fernando López](https://www.linkedin.com/in/fernando-lopez-b80182290/)
