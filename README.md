@@ -24,6 +24,7 @@ Soy un desarrollador web Front / Back Jr con pasión por la creación de aplicac
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
