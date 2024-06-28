@@ -1,8 +1,7 @@
 # Hola, soy Fernando López 👋
 
 ## Sobre mí
-Soy un desarrollador web Front / Back Jr enfocado por la creación de aplicaciones web dinámicas y funcionales, así como buscar soluciones a problemas y mejorar la experiencia. 
-Me encanta aprender nuevas tecnologías y mejorar mis habilidades en el sector de forma continua.
+Soy un desarrollador web Front / Back Jr con pasión por la creación de aplicaciones web dinámicas y funcionales. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en el sector de forma continua.
 
 ## Tecnologías
 
@@ -25,9 +24,11 @@ Me encanta aprender nuevas tecnologías y mejorar mis habilidades en el sector d
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Table Plus](https://img.shields.io/badge/-Table_Plus-03B3E4?style=flat&logo=tableplus&logoColor=white)](https://tableplus.com/)
+[![SQL Workbench](https://img.shields.io/badge/-SQL_Workbench-18A0D5?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
 
 ## Contacto
 - **Correo:** [ferlopeztrdev@gmail.com](mailto:ferlopeztrdev@gmail.com)
