@@ -1,7 +1,8 @@
 # Hola, soy Fernando López 👋
 
 ## Sobre mí
-Soy un desarrollador web Front / Back Jr enfocado por la creación de aplicaciones web dinámicas y funcionales, así como buscar soluciones a problemas y mejorar la experiencia de usuario. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en el sector de forma continua.
+Soy un desarrollador web Front / Back Jr enfocado por la creación de aplicaciones web dinámicas y funcionales, así como buscar soluciones a problemas y mejorar la experiencia. 
+Me encanta aprender nuevas tecnologías y mejorar mis habilidades en el sector de forma continua.
 
 ## Tecnologías
 
