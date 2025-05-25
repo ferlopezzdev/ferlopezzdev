@@ -1,7 +1,7 @@
 # Hola, soy Fernando López 👋
 
 ## Sobre mí
-Soy desarrollador web, principalmente Frontend aunque tambien tengo conocimientos de Backend, estoy enfocado en la creación de aplicaciones web dinámicas y funcionales, así también solucionando errores y brindando una buena experiencia. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en el sector de forma continua.
+Soy desarrollador web, principalmente Frontend aunque también tengo conocimientos de Backend. Estoy enfocado en la creación de aplicaciones web dinámicas y funcionales, así como en la resolución de errores y la mejora continua de la experiencia del usuario. Me encanta aprender nuevas tecnologías y perfeccionar mis habilidades en el sector de forma constante.
 
 ## Tecnologías
 
@@ -15,11 +15,14 @@ Soy desarrollador web, principalmente Frontend aunque tambien tengo conocimiento
 [![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white)](https://astro.build/)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=black)](https://greensock.com/gsap/)
+[![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF007A?style=flat&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Herramientas
