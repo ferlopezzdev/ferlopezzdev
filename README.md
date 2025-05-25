@@ -1,7 +1,7 @@
 # Hola, soy Fernando López 👋
 
 ## Sobre mí
-Soy un desarrollador web Front / Back Jr enfocado en la creación de aplicaciones web dinámicas y funcionales, así también solucionando errores y brindando una buena experiencia. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en el sector de forma continua.
+Soy desarrollador web, principalmente Frontend aunque tambien tengo conocimientos de Backend, estoy enfocado en la creación de aplicaciones web dinámicas y funcionales, así también solucionando errores y brindando una buena experiencia. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en el sector de forma continua.
 
 ## Tecnologías
 
@@ -11,14 +11,16 @@ Soy un desarrollador web Front / Back Jr enfocado en la creación de aplicacione
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white)](https://astro.build/)
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 
 ### Herramientas
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
@@ -28,7 +30,7 @@ Soy un desarrollador web Front / Back Jr enfocado en la creación de aplicacione
 [![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Table Plus](https://img.shields.io/badge/-Table_Plus-03B3E4?style=flat&logo=tableplus&logoColor=white)](https://tableplus.com/)
-[![SQL Workbench](https://img.shields.io/badge/-SQL_Workbench-18A0D5?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+[![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
 ## Contacto
 - **Correo:** [ferlopeztrdev@gmail.com](mailto:ferlopeztrdev@gmail.com)
